@@ -78,6 +78,11 @@
 
 <br>
 
+# ⚡️ 아키텍처
+![아키텍처v3](https://github.com/user-attachments/assets/75e87f3b-fc45-42ad-b068-652cfb7d16a6)
+
+<br>
+
 # 📊 ERD
 ![image](https://github.com/user-attachments/assets/87cfef6d-98db-471c-bb8e-36602359d486)
 
