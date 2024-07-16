@@ -23,8 +23,8 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[이세희](https://github.com/2-say)|[이재이](https://github.com/zaysverse)|[김현광](https://github.com/kimhyungwang)|[강하경](https://github.com/kanghagyeong)|[김문영](https://github.com/munyeongkim2)|[한태환](https://github.com/taehwan)|
 | 주문/결제 | 쿠폰 | 인증/인가 | 회원 | 장바구니 | 도서 |
-| 공통응답폼 | 배치 | ㅎㅎㅎㅎ | 좋아요 | 검색 | 리뷰 |
-| ㅎㅎㅎㅎ | 공통에러 | ㅎㅎㅎㅎ |ㅎㅎㅎㅎ| 카테고리 | 태그 |
+| 배포 | 배치 |  | 좋아요 | 검색 | 리뷰 |
+|  | 배포 |  || 카테고리 | 태그 |
 
 <br>
 
