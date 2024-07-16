@@ -19,14 +19,12 @@
 
 
 # Members
-|<img src="https://avatars.githubusercontent.com/u/91319157?v=4" width= 80>|<img src="https://avatars.githubusercontent.com/u/90399537?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/114563915?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/130727384?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/115964167?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/43734317?v=4" width=80>|
+|<img src="https://avatars.githubusercontent.com/u/91319157?v=4" width= 80>|<img src="https://avatars.githubusercontent.com/u/90399537?v=4" width = 80>|<img src="" width = 80>|<img src="https://avatars.githubusercontent.com/u/130727384?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/115964167?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/43734317?v=4" width=80>|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[이세희](https://github.com/2-say)|[이재이](https://github.com/zaysverse)|[김현광](https://github.com/kimhyungwang)|[강하경](https://github.com/kanghagyeong)|[김문영](https://github.com/munyeongkim2)|[한태환](https://github.com/taehwan)|
-| 게이트웨이/유레카 | 로그 | 인증/로그인 | 태그 | 좋아요 | 회원 가입 |
-| 카테고리 | 도서 | 마이페이지 | 포인트 | 리뷰 | 검색 |
-| 장바구니 | | 검색 ||||
-| 주문/결제 | | 쿠폰 ||||
-| [세부 업무](#%EA%B9%80%EC%8A%B9%EA%B7%9C) | [세부 업무](#%EB%85%B8%EB%8F%99%EC%98%81) | [세부 업무](#%EC%86%A1%EC%95%84%ED%98%84) | [세부 업무](#%EC%86%A1%EC%A7%84%EA%B7%9C) | [세부 업무](#%EC%9D%B4%EC%84%9C%EC%97%B0) | [세부 업무](#%EC%A7%84%ED%9A%A8%EA%B2%B8) |
+| 주문/결제 | 쿠폰 | 인증/인가 | 회원 | 장바구니 | 도서 |
+| 공통응답폼 | 배치 | ㅎㅎㅎㅎ | 좋아요 | 검색 | 리뷰 |
+| ㅎㅎㅎㅎ | 공통에러 | ㅎㅎㅎㅎ |ㅎㅎㅎㅎ| 카테고리 | 태그 |
 
 <!--
 
