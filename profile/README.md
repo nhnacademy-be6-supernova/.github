@@ -3,7 +3,7 @@
 - MSA 아키텍처로 진행한 온라인 서점 쇼핑몰 프로젝트
 <br>
   
-### 기능 🎈
+### 🎈 대표 기능 🎈
 -  회원
     - 회원가입, 정보수정, 탈퇴, 마이페이지
 - 도서
@@ -15,8 +15,7 @@
 - 쿠폰
    - 쿠폰 발급, 사용하여 결제 가능 
 
-
-
+<br>
 
 # Members
 |<img src="https://avatars.githubusercontent.com/u/91319157?v=4" width= 80>|<img src="https://avatars.githubusercontent.com/u/90399537?v=4" width = 80>|<img src="" width = 80>|<img src="https://avatars.githubusercontent.com/u/130727384?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/115964167?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/43734317?v=4" width=80>|
@@ -76,6 +75,11 @@
 
 ### Logging
 ![NHN Cloud Log & Crash Search](https://img.shields.io/badge/NHN%20Cloud%20Log%20&%20Crash%20Search-153887?style=for-the-badge&logo=iCloud&logoColor=white)
+
+<br>
+
+# 📊 ERD
+![image](https://github.com/user-attachments/assets/87cfef6d-98db-471c-bb8e-36602359d486)
 
 
 <!--
