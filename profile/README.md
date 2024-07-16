@@ -1,4 +1,5 @@
-## NovaBook 📕
+## NovaBook 📕 - 온라인 서점 쇼핑몰 
+
 
 <!--
 
@@ -11,7 +12,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## 🔨 We used 🔨
+<br>
+
+## ⚙️ We used ⚙️
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
