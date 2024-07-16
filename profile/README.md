@@ -18,7 +18,7 @@
 <br>
 
 # Members
-|<img src="https://avatars.githubusercontent.com/u/91319157?v=4" width= 80>|<img src="https://avatars.githubusercontent.com/u/90399537?v=4" width = 80>|<img src="" width = 80>|<img src="https://avatars.githubusercontent.com/u/130727384?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/115964167?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/43734317?v=4" width=80>|
+|<img src="https://avatars.githubusercontent.com/u/91319157?v=4" width= 80>|<img src="https://avatars.githubusercontent.com/u/90399537?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/164273330?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/130727384?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/115964167?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/43734317?v=4" width=80>|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[이세희](https://github.com/2-say)|[이재이](https://github.com/mirosverse)|[김현광](https://github.com/kimhyungwang)|[강하경](https://github.com/kanghagyeong)|[김문영](https://github.com/munyeongkim2)|[한태환](https://github.com/hantaehwan)|
 | 주문/결제 | 쿠폰 | 인증/인가 | 회원 | 장바구니 | 태그 |
