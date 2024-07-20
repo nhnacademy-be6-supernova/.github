@@ -92,12 +92,14 @@
 <br>
 
 # ⚡️ 아키텍처
-![아키텍처v3](https://github.com/user-attachments/assets/75e87f3b-fc45-42ad-b068-652cfb7d16a6)
+![아키텍처v3](https://github.com/user-attachments/assets/523b01c6-98ff-4d14-86fe-3e8a680f4f0c)
+
 
 <br>
 
 # 📊 ERD
-![image](https://github.com/user-attachments/assets/87cfef6d-98db-471c-bb8e-36602359d486)
+![novaBook  v 0 3 4](https://github.com/user-attachments/assets/394babb0-a23d-4f7e-84f0-1aa4b0b624cf)
+
 
 
 <!--
