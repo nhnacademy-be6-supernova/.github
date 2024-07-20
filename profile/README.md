@@ -18,13 +18,13 @@
 <br>
 
 # Members
-|<img src="https://avatars.githubusercontent.com/u/91319157?v=4" width= 80>|<img src="https://avatars.githubusercontent.com/u/90399537?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/164273330?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/130727384?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/115964167?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/43734317?v=4" width=80>|
+|<img src="https://avatars.githubusercontent.com/u/130727384?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/115964167?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/164273330?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/91319157?v=4" width= 80>|<img src="https://avatars.githubusercontent.com/u/90399537?v=4" width = 80>|<img src="https://avatars.githubusercontent.com/u/43734317?v=4" width=80>|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[이세희](https://github.com/2-say)|[이재이](https://github.com/mirosverse)|[김현광](https://github.com/kimhyungwang)|[강하경](https://github.com/kanghagyeong)|[김문영](https://github.com/munyeongkim2)|[한태환](https://github.com/hantaehwan)|
-| 주문/결제 | 쿠폰 | 인증/인가 | 회원 | 장바구니 | 태그 |
-| 배포 | 배치 | 게이트웨이/유레카 | 좋아요 | 검색 | 리뷰 |
-| 공통응답 | 배포 |  | 마이페이지 | 카테고리 | 포인트 |
-|  | 공통에러 |  || 도서 |  |
+|[강하경](https://github.com/kanghagyeong)|[김문영](https://github.com/munyeongkim2)|[김현광](https://github.com/kimhyungwang)|[이세희](https://github.com/2-say)|[이재이](https://github.com/mirosverse)|[한태환](https://github.com/hantaehwan)|
+| 회원 | 장바구니 | 인증/인가 | 주문/결제 | 쿠폰 | 태그 |
+| 좋아요 | 검색 | 게이트웨이/유레카 | 배포 | 배치 | 리뷰 |
+| 마이페이지 | 카테고리 |  | 공통응답 | 배포 | 포인트 |
+|  | 도서 |  || 공통에러 |  |
 
 <br>
 
