@@ -28,6 +28,17 @@
 
 <br>
 
+# 👐🏻 Server
+- [Novabook Front Server](https://github.com/nhnacademy-be6-supernova/novabook-front)
+- [Novabook Store API Server](https://github.com/nhnacademy-be6-supernova/novabook-back-store)
+- [Novabook Coupon Server](https://github.com/nhnacademy-be6-supernova/novabook-back-coupon)
+- [Novabook Spring Cloud Gateway Server](https://github.com/nhnacademy-be6-supernova/novabook-gateway)
+- [Novabook Spring Cloud Eureka Server](https://github.com/nhnacademy-be6-supernova/novabook-eureka)
+- [Novabook Batch Server](https://github.com/nhnacademy-be6-supernova/novabook-auth)
+- [Novabook Auth Server](https://github.com/nhnacademy-be6-supernova/novabook-auth)
+
+
+
 
 # 🪐 Development Environment 
 ### 개발 도구
