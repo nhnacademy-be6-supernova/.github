@@ -92,7 +92,8 @@
 <br>
 
 # ⚡️ 아키텍처
-![superNova](https://github.com/user-attachments/assets/4c92ee6a-e738-4161-b89e-a3696ebcbc8b)
+![nova drawio](https://github.com/user-attachments/assets/43c5ac7b-0ee4-45ad-99c6-ad4e3d194f31)
+
 
 
 <br>
