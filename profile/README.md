@@ -92,7 +92,9 @@
 <br>
 
 # ⚡️ 아키텍처
-![arch](https://github.com/user-attachments/assets/41de70ec-9922-48a0-a8e2-0ee5d15addf2)
+![nova_archi](https://github.com/user-attachments/assets/025383a8-142d-4248-bc16-891d8a261bc9)
+
+
 
 
 <br>
